@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
 	s.version     = FormattedDate::VERSION
 	s.platform    = Gem::Platform::RUBY
 	s.authors     = ['Connor Prussin']
-	s.email       = %w(cprussin@cprussin.net)
-	s.homepage    = 'http://cprussin.net/formatted-date'
+	s.email       = %w(connor@prussin.net)
+	s.homepage    = 'https://connor.prussin.net/formatted-date'
 	s.licenses    = %w(WTFPL)
 
 	readme        = File.open('README.md', 'r').each_line.to_a

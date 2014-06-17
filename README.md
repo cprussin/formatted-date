@@ -1,4 +1,4 @@
-# [Formatted Date](http://cprussin.net/formatted-date)
+# [Formatted Date](https://connor.prussin.net/formatted-date)
 
 Formatting extensions for ruby time classes.
 

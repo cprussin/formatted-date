@@ -74,5 +74,5 @@ these hashes are:
 - **glue**: text to put between between the date and time parts (e.g. 'on'),
   surrounding spaces added automatically
 - **alternatives**: `false` to suppress using alternatives like _Today_,
-	_Midnight_, or _Noon_, `:date` to only use date alternatives, and `:time` to
-	only use time alternatives
+  _Midnight_, or _Noon_, `:date` to only use date alternatives, and `:time` to
+  only use time alternatives
